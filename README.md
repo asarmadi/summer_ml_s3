@@ -1,4 +1,4 @@
-# nyuMLSummerSchoolPrivate
+# NYU ML Summer School
 # Summer ML
 NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last year's course by Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishwarya Gagadam.
 
