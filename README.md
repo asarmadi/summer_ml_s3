@@ -4,6 +4,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 
 ## Logistics:
 - We use [Piazza](https://piazza.com/nyu/spring2020/ml101) for offline discussion!
+- We take attendance [here](https://docs.google.com/spreadsheets/d/1dg5vC_c94YjgJI6HyVYe9YpKPVyQb5nlEloR7GrzFP4/edit?usp=sharing). If you have any questions regarding the attendance, please contact the instructors.
 
 ## Topic Schedule:
 ### Day 1: Introduction to ML
