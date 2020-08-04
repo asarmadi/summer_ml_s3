@@ -17,5 +17,5 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: Vectorized Programming](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/demo_vectorized_code.ipynb)
 - [Demo: Plotting](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/demo_plot.ipynb)
 - [Lab: Visualize Ice-breaking Dataset](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/lab_icebreaker.ipynb)
-- [Demo: Univariable Linear Regression ](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/demo_boston_housing_one_variable.ipynb.ipynb)
-- [Demo: Multivariable Linear Regression ](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/demo_multilinear.ipynb.ipynb)
+- [Demo: Univariable Linear Regression ](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/demo_boston_housing_one_variable.ipynb)
+- [Demo: Multivariable Linear Regression ](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/demo_multilinear.ipynb)
