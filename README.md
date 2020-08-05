@@ -19,3 +19,8 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Lab: Visualize Ice-breaking Dataset](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/lab_icebreaker.ipynb)
 - [Demo: Univariable Linear Regression ](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/demo_boston_housing_one_variable.ipynb)
 - [Demo: Multivariable Linear Regression ](https://github.com/asarmadi/summer_ml_s3/blob/master/day02/demo_multilinear.ipynb)
+
+### Day 3: Overfitting and Generalization
+- [Lecture Notes](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/lec_notes.pdf)
+- [Demo: Polynomial Fitting](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/demo_fit_polynomial.ipynb)
+- [Demo: Overfitting and Generalization](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/demo_overfitting_regularization.ipynb)
