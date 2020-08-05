@@ -22,5 +22,5 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 
 ### Day 3: Overfitting and Generalization
 - [Lecture Notes](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/lec_notes.pdf)
-- [Demo: Polynomial Fitting](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/demo_fit_polynomial.ipynb)
-- [Demo: Overfitting and Generalization](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/demo_overfitting_regularization.ipynb)
+- [Lab: Polynomial Fitting](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/lab_fit_polynomial.ipynb)
+- [Lab: Overfitting and Generalization](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/lab_overfitting_regularization.ipynb)
