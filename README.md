@@ -24,3 +24,8 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Lecture Notes](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/lec_notes.pdf)
 - [Lab: Polynomial Fitting](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/lab_fit_polynomial.ipynb)
 - [Lab: Overfitting and Generalization](https://github.com/asarmadi/summer_ml_s3/blob/master/day03/lab_overfitting_regularization.ipynb)
+
+### Day 4: Linear Classification
+- [Lecture Notes](https://github.com/asarmadi/summer_ml_s3/blob/master/day04/lec_notes.pdf)
+- [Demo: Diagnosing Breast Cancer](https://github.com/asarmadi/summer_ml_s3/blob/master/day04/demo_breast_cancer.ipynb)
+- [Demo: Iris Dataset](https://github.com/asarmadi/summer_ml_s3/blob/master/day04/demo_iris.ipynb)
