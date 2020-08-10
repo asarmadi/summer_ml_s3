@@ -34,3 +34,9 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 ### Day 5: Mini-Project
 - [Lecture Notes](https://github.com/asarmadi/summer_ml_s3/blob/master/day05/lec_notes.pdf)
 - [Project: Fish Weight Prediction](https://github.com/asarmadi/summer_ml_s3/blob/master/day05/fish_market.ipynb)
+
+### Day 6: Neural Networks
+- [Lecture Notes](https://github.com/asarmadi/summer_ml_s3/blob/master/day06/lec_notes.pdf)
+- [Demo: Gradient Descent](https://github.com/asarmadi/summer_ml_s3/blob/master/day06/demo_gd_linreg.ipynb)
+- [Demo: TensorFlow Keras Basics](https://github.com/asarmadi/summer_ml_s3/blob/master/day06/demo_tf_keras_basics.ipynb)
+- [Lab: Solve the Mini-Project with MLPs](https://github.com/asarmadi/summer_ml_s3/blob/master/day06/lab_mlp_fish_market_keras.ipynb)
