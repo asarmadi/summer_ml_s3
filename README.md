@@ -47,3 +47,6 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: Kernels](https://github.com/asarmadi/summer_ml_s3/blob/master/day07/demo_kernels.ipynb)
 - [Demo: CNN](https://github.com/asarmadi/summer_ml_s3/blob/master/day07/demo_cnn.ipynb)
 - [Lab: MNIST](https://github.com/asarmadi/summer_ml_s3/blob/master/day07/lab_mnist.ipynb)
+
+### Day 8: Convolutional Neural Networks
+- [Lab: Cats vs. Dogs](https://github.com/asarmadi/summer_ml_s3/blob/master/day08/lab_cats_and_dogs.ipynb)
