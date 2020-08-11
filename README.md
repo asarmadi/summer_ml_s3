@@ -41,7 +41,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: TensorFlow Keras Basics](https://github.com/asarmadi/summer_ml_s3/blob/master/day06/demo_tf_keras_basics.ipynb)
 - [Lab: Solve the Mini-Project with MLPs](https://github.com/asarmadi/summer_ml_s3/blob/master/day06/lab_mlp_fish_market_keras.ipynb)
 
-### Day 6: Convolutional Neural Networks
+### Day 7: Convolutional Neural Networks
 - [Lecture Notes](https://github.com/asarmadi/summer_ml_s3/blob/master/day07/lec_notes.pdf)
 - [Demo: Image Representation](https://github.com/asarmadi/summer_ml_s3/blob/master/day07/demo_image_representation.ipynb)
 - [Demo: Kernels](https://github.com/asarmadi/summer_ml_s3/blob/master/day07/demo_kernels.ipynb)
