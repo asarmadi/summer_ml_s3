@@ -51,7 +51,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 ### Day 8: Convolutional Neural Networks
 - [Lab: Cats vs. Dogs](https://github.com/asarmadi/summer_ml_s3/blob/master/day08/lab_cats_and_dogs.ipynb)
 
-### Day 9: Convolutional Neural Networks
+### Day 9: Project
 - [Lecture Notes](https://github.com/asarmadi/summer_ml_s3/blob/master/day09/lec_notes.pdf)
 - [Project: Car Classification](https://github.com/asarmadi/summer_ml_s3/blob/master/day09/car_classification.ipynb)
 - [Project: Cifar10](https://github.com/asarmadi/summer_ml_s3/blob/master/day09/cifar10.ipynb)
